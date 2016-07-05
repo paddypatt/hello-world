@@ -1,2 +1,6 @@
 # hello-world
-Intro to using git
+Hi guys,
+
+Just getting a feel for GitHub. Big fan of GOT and The Walking Dead.
+
+Just saying. 
